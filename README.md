@@ -1,7 +1,7 @@
 # Cars-Classification
 Stanford Cars classification using Keras. The aim of the project is to use the concepts of transfer learning and fine-tuning to train a VGG16 network to classify the Stanford Cars Dataset.<br />
 As stated on the website, the dataset"contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year".<br />
-Training on dataset was done using the Google Colaboratory environment.
+Training on dataset was done using the Google Colaboratory environment.<br />
 Final Test Accurracy of 74.35% was obtained on the dataset, with a vaidation accuracy of 75.92%, after training on 80 epochs.
 
 
